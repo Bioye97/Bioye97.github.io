@@ -109,6 +109,12 @@ main {
   margin: auto;
 }
 
+#messagediv {
+  width: 80%;	
+  align-items: center;
+  margin: auto;
+}
+
 h1 {
 	text-align: center;
 }
